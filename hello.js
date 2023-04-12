@@ -1,7 +1,7 @@
 function hello(str) {
-    return (
-        console.log("Hello, World. Está certo?") 
-    )
+    return "Hello World"
 };
+
+console.log(hello())
 
 module.exports = hello;
