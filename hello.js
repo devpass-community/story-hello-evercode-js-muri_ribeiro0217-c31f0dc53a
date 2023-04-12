@@ -1,5 +1,7 @@
 function hello(str) {
-    // Add your solution here!
+    return (
+        console.log("Hello, World") 
+    )
 };
 
 module.exports = hello;
