@@ -1,6 +1,6 @@
 function hello(str) {
     return (
-        console.log("Hello, World") 
+        console.log("Hello, World. Está certo?") 
     )
 };
 
